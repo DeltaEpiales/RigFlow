@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RigFlow/static/css/main.32c18b96.css",
+    "main.js": "/RigFlow/static/js/main.5fa59a4c.js",
+    "index.html": "/RigFlow/index.html",
+    "main.32c18b96.css.map": "/RigFlow/static/css/main.32c18b96.css.map",
+    "main.5fa59a4c.js.map": "/RigFlow/static/js/main.5fa59a4c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32c18b96.css",
+    "static/js/main.5fa59a4c.js"
+  ]
+}
