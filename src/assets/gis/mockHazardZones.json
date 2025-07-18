@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "High Pressure Zone",
+        "hazard": "High Pressure Equipment",
+        "ppe": "Hard Hat, Safety Glasses"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.37,
+              31.845
+            ],
+            [
+              -102.366,
+              31.845
+            ],
+            [
+              -102.366,
+              31.847
+            ],
+            [
+              -102.37,
+              31.847
+            ],
+            [
+              -102.37,
+              31.845
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

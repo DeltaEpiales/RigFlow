@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Maverick Johnson Lease",
+        "owner": "Maverick Oil Co."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.085,
+              31.995
+            ],
+            [
+              -102.07,
+              31.995
+            ],
+            [
+              -102.07,
+              32.005
+            ],
+            [
+              -102.085,
+              32.005
+            ],
+            [
+              -102.085,
+              31.995
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
